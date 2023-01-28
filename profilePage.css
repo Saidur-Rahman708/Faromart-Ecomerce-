@@ -1,0 +1,66 @@
+*
+{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.nav1
+{
+    display: flex;
+    justify-content: space-between;
+    padding-top:5px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 10px;
+    /* background-color: #81ecec; */
+    width: 90%;
+    margin: auto;
+}
+
+.logo, .logo a
+{
+    
+    font-size: larger;
+    font-family:Brush Script MT;
+    color: #00b894;
+    text-decoration: none;
+    
+}
+.button
+{
+    padding-top:10px ;
+    
+}
+.but
+{
+    background-color:  #e17055;
+    border: 3px solid #d63031;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color:#b2bec3;
+    text-decoration: none;
+}
+.header{
+    margin-top: 20px;
+}
+.header h1{
+    text-align: center;
+}
+.dataPresentPart{
+    margin-top: 20px;
+}
+.dataPresentPart p{
+    text-align: center;
+}
+.lastPart{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
+.delete{
+    margin-right: 5px;
+}
+.update{
+    margin-left: 5px;
+}
+

@@ -1,0 +1,124 @@
+*
+{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.nav1
+{
+    display: flex;
+    justify-content: space-between;
+    padding-top:5px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 10px;
+    /* background-color: #81ecec; */
+    width: 90%;
+    margin: auto;
+}
+
+.logo, .logo a
+{
+    
+    font-size: larger;
+    font-family:Brush Script MT;
+    color: #00b894;
+    text-decoration: none;
+    
+}
+
+.item
+{
+    padding-top: 10px;
+    
+}
+
+.item ul li
+{
+    display: inline;
+    font-family: 'Hurricane', cursive;
+}
+
+.item ul li a
+{
+    text-decoration: none;
+    color: #74b9ff;
+    padding-left: 20px;
+}
+
+.button
+{
+    padding-top:10px ;
+    
+}
+.but_1
+{
+    background-color: #74b9ff;
+    border: 3px solid #6c5ce7;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #e17055;
+    text-decoration: none;
+}
+.but
+{
+    background-color:  #e17055;
+    border: 3px solid #d63031;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color:#b2bec3;
+    text-decoration: none;
+}
+.body_1
+{
+    display: flex;
+    justify-content: space-between;
+}
+.text
+{
+    width: 48%;
+    padding: 50px;
+    padding-top: 120px;
+}
+.text h1
+{
+    font-family: 'Grape Nuts', cursive;
+}
+.text p
+{
+    padding-top: 5px;
+    font-family: 'Beau Rivage', cursive;
+
+}
+.image
+{
+    width: 48%;
+}
+.card-title
+{
+    text-align: center;
+    /* font-family: 'Babylonica', cursive; */
+    font-family: 'Beau Rivage', cursive;
+    font-size: large;
+}
+ 
+.row a
+{
+    text-decoration: none;
+    color: black;
+}
+.row a:hover
+{
+    color: #74b9ff;
+}
+.card-title:hover
+{
+    font-size: larger;
+}
+
+
+.s_icon a 
+{
+    padding: 5px;
+    color: white;
+}
